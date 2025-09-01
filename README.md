@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Nicolás Galindo Ramírez 👋
 
-<!--
-**Ngalindor/Ngalindor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agronomic Engineer specializing in data analysis and GIS. Experience in crop management, spatial modeling, and agricultural process optimization.
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Python, R, SQL
+- Tools: QGIS, ArcGIS, Google Earth Engine, Power BI
+- Analysis: Spatial data, modeling, visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Specialization in GIS, Mapping, and Spatial Analysis (University of Toronto)
+- Python for Everybody (University of Michigan)
+
+## Contact
+- LinkedIn: [nicolas](https://www.linkedin.com/in/nicolas)
+- Email: ngalindor1031@gmail.com
