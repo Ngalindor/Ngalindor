@@ -12,5 +12,5 @@ Agronomic Engineer specializing in data analysis and GIS. Experience in crop man
 - Python for Everybody (University of Michigan)
 
 ## Contact
-- LinkedIn: [nicolas](https://www.linkedin.com/in/nicolas)
+- LinkedIn: [Nicolas Galindo R](https://www.linkedin.com/in/nicol%C3%A1s-galindo-ram%C3%ADrez-506447352/)
 - Email: ngalindor1031@gmail.com
