@@ -1,4 +1,4 @@
-# Hi there, I'm Nicolás Galindo Ramírez 👋
+# Hi 👋, I'm Nicolás Galindo Ramírez 
 
 Agronomic Engineer specializing in data analysis and GIS. Experience in crop management, spatial modeling, and agricultural process optimization. 📊🌱
 
